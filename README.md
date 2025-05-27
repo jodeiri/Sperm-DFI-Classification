@@ -1,5 +1,5 @@
 # Sperm-DFI-Classification
-🧬 Detection and Classification of Sperm DNA Integrity
+## 🧬 Detection and Classification of Sperm DNA Integrity
 This project detects and classifies sperm cells in brightfield microscopy images based on their DNA Fragmentation Index (DFI). It integrates Meta AI's Segment Anything Model (SAM) for zero-shot sperm detection and a custom CNN for classifying DNA integrity into three categories:
 
 Excellent (DFI < 15%)
